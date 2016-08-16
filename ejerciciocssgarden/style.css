@@ -1,0 +1,76 @@
+body {
+	background-color: #A5F577;
+	padding: 50px 30px 50px 80px;
+}
+.intro h1 {
+	align-content: justify;
+	font-family: sans-serif;
+	color: brown;
+	font-size: 24px;
+}
+.summary {
+	align-content: justify;
+	font-size: 16px;
+	font-family: Courier;
+	background-size: 50%;
+	background-color: #fff;
+	border: 1px solid yellow;
+}
+.preamble {
+	align-self: center;
+	background-size: 70%;
+	border: 2px dashed brown;
+}
+.preamble h3 {
+	background-color: yellow;
+	height: 80px;
+	width: 120px;
+	text-align: right;
+}
+.intro h2 {
+	font-family: serif;
+	font-size: 20px
+	color: #fff;
+	text-align: center;
+}
+.explanation {
+	background-color: #FBB5F6;
+	align-content: left;
+	background-size: 70%,}
+.explanation p {
+	font-size: 18px;
+	font-style: oblique bold 120% cursive;
+	color: #fff;
+}
+.participation {
+	height: 400px;
+    width: 700px;
+    background-color: powderblue;
+}
+.participation h3{
+	font-family: Arial;
+	font-size: 36px;
+	text-align: right;
+}
+.benefits {
+	height: 300px;
+    width: 200px;
+    background-color: violet;
+    padding-left: 100px;
+    align-content: left;
+}
+.requirements {
+	height: 500px;
+    width: 700px;
+    background-color: black;
+    padding-right: 100px;
+    align-content: center;
+}
+.requirements p {
+	color: white;
+	font-size: 16px;
+}
+.requirements h3 {
+	color: white;
+	text-align: right;
+}
